@@ -1,3 +1,3 @@
 # ID_CARD-GENERATE
-This project generates the id_card and saves it and print as an pdf format
+Users can create customized student ID cards with this ID Card Generator project, which is a straightforward web application. Name, parent name, date of birth, roll number, course, phone number, address, and a photo are among the data it requests. The ID card is created dynamically and shown on the screen after the form is submitted. After that, users can use the jsPDF library to download the ID card as a PDF. This project is useful for educational institutions or training centers to quickly create and print student identity cards.
 ![image Alt](https://github.com/harshapadala/ID_CARD-GENERATE/blob/f46902a114aaf2fd4e69d3f97f1bd3ef9dde0fba/ID-card%20generator.png)
